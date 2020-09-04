@@ -1,7 +1,7 @@
 [npm]: https://img.shields.io/npm/v/svelte-navigator.svg?style=flat-square
 [npm-url]: https://npmjs.com/package/svelte-navigator
 
-**Please refer to the [project repo](https://github.com/mefechoel/svelte-navigator) for the current code and documentation.**
+**Please refer to the [main project repo](https://github.com/mefechoel/svelte-navigator) for the current code and documentation.**
 This repo is the original fork of svelte-routing I keep around just in case.
 
 # Svelte Navigator
